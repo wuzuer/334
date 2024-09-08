@@ -1,5 +1,4 @@
 # 334
-<<<<<<< HEAD
 
 ## Project setup
 ```
@@ -25,4 +24,4 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 =======
 This is the warehouse for the construction of the 334 laboratory website.
->>>>>>> origin/master
+
